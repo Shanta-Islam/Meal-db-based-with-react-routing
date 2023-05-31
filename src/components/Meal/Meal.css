@@ -1,0 +1,18 @@
+.meal{
+    border: 1px solid #7fffd4;
+    margin: 10px;
+    padding: 15px;
+}
+.details-btn{
+    border: 0;
+    background-color: cadetblue;
+    color: #fff;
+    margin: 2px;
+}
+.meal img{
+    width: 250px;
+    display: flex;
+    margin: auto;
+    border-radius: 10%;
+    margin-bottom: 20px;
+}
